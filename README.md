@@ -1,18 +1,18 @@
 # Magical Charisma To Solve Your Mental Dilemma ⚡️ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma/issues)
-[![Forks](https://img.shields.io/github/forks/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma.svg?logo=github)](https://github.com/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma/network/members)
-[![Stargazers](https://img.shields.io/github/stars/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma.svg?logo=github)](https://github.com/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma/stargazers)
-[![Issues](https://img.shields.io/github/issues/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma.svg?logo=github)](https://github.com/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma/issues)
-[![MIT License](https://img.shields.io/github/license/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma.svg?style=flat-square)](https://github.com/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma/blob/master/LICENSE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/vigneshshettyin/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Srish283/Magical-Charisma-To-Solve-Your-Mental-Dilemma/issues)
+[![Forks](https://img.shields.io/github/forks/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma.svg?logo=github)](https://github.com/Srish283/Magical-Charisma-To-Solve-Your-Mental-Dilemma/network/members)
+[![Stargazers](https://img.shields.io/github/stars/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma.svg?logo=github)](https://github.com/Srish283/Magical-Charisma-To-Solve-Your-Mental-Dilemma/stargazers)
+[![Issues](https://img.shields.io/github/issues/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma.svg?logo=github)](https://github.com/Srish283/Magical-Charisma-To-Solve-Your-Mental-Dilemma/issues)
+[![MIT License](https://img.shields.io/github/license/Srish283/Magical-Charisma-To-Solve-Your-Mental-Dilemma.svg?style=flat-square)](https://github.com/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma/blob/master/LICENSE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/srishtibhandarkar/)
 
 Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma/issues).
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/Srish283/Magical-Charisma-To-Solve-Your-Mental-Dilemma/issues).
 
 
-If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an [Pull Request](https://github.com/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma/pulls).
+If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an [Pull Request](https://github.com/Srish283/Magical-Charisma-To-Solve-Your-Mental-Dilemma/pulls).
 
 
 To view a live example, **[Click Here](https://solveproblems.netlify.app/)**
@@ -25,8 +25,10 @@ To view a live example, **[Click Here](https://solveproblems.netlify.app/)**
 From your command line:
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma.git
+# Fork the Repository
+
+# Clone this repository from Git Bash
+$ git clone https://github.com/Srish283/Magical-Charisma-To-Solve-Your-Mental-Dilemma.git
 
 # Go into the repository
 $ cd Magical-Charisma-To-Solve-Your-Mental-Dilemma
@@ -60,13 +62,13 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE
 
 ## For the Future 
 
-If you can help us with these. Please don't hesitate to open a [Pull Request](https://github.com/vigneshshettyin/Magical-Charisma-To-Solve-Your-Mental-Dilemma/pulls).
+If you can help us with these. Please don't hesitate to open a [Pull Request](https://github.com/Srish283/Magical-Charisma-To-Solve-Your-Mental-Dilemma/pulls).
 
 ## Project Maintainers 🚧
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/vigneshshettyin/"><img src="https://avatars3.githubusercontent.com/u/61915786?s=460&u=75ed488de9581ae3cfe3aa6515e404314308dfbe&v=4" width="100px;" alt=""/><br /><sub><b>Vignesh Shetty</b></sub></a></td>
+     <td align="center"><a href="https://www.linkedin.com/in/vigneshshettyin/"><img src="https://avatars.githubusercontent.com/u/77713888?s=460&u=28a461a4ae6826d8daa5074823b7753a0385e2fa&v=4" width="100px;" alt=""/><br /><sub><b>Vignesh Shetty</b></sub></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/simonnepinto/"><img src="https://avatars1.githubusercontent.com/u/53074235?s=400&v=4" width="100px;" alt="Simonne Letetia Pinto"/><br /><sub><b>Simonne Letetia Pinto</b></sub></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/srishtibhandarkar/"><img src="https://media-exp1.licdn.com/dms/image/C5603AQHNGlvYPRTcOg/profile-displayphoto-shrink_200_200/0/1596458200423?e=1613606400&v=beta&t=f4aS4Gp26DYo-boRJmJ3f-sXiu2kunjGLkPRaC9J6T4" width="100px;" alt="Srishti Bhandarkar"/><br /><sub><b>Srishti Bhandarkar</b></sub></a></td>
   </tr>
